@@ -8,10 +8,3 @@ def sum(a,b)
 
 修改
 aaaaaaaaaaaaaaa
-
-num = 10
-
-num = 20
-
-num4 = 100
-
