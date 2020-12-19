@@ -11,7 +11,7 @@ aaaaaaaaaaaaaaa
 
 num = 10
 
-
+hum3=10
 
 num4 = 100
 
